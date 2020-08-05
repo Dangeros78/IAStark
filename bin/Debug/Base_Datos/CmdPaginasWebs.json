@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "comando": "Abre facebook",
+    "accion": "www.facebook.com",
+    "respuesta": "Accediendo a su facebook"
+  },
+  {
+    "id": 2,
+    "comando": "Abre google",
+    "accion": "www.google.com",
+    "respuesta": "Buscador abierto"
+  }
+]

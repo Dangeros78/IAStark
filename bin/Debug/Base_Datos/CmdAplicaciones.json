@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "comando": "Abre Word",
+    "accion": "winword.exe",
+    "respuesta": "Word abierto"
+  },
+  {
+    "id": 2,
+    "comando": "Abre correo",
+    "accion": "",
+    "respuesta": "Accedendo a su correo"
+  }
+]

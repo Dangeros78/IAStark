@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "comando": "Hola",
+    "accion": "",
+    "respuesta": "Hola, se�or"
+  },
+  {
+    "id": 2,
+    "comando": "Que tal estas?",
+    "accion": "",
+    "respuesta": "Aun en creacion se�or."
+  },
+  {
+    "id": 3,
+    "comando": "Que haces?",
+    "accion": "",
+    "respuesta": "esperando instrucciones, señor"
+  }
+]

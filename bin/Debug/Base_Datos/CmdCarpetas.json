@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "comando": "Abre mis documentos",
+    "accion": "C:\\Users\\Victor\\Documents",
+    "respuesta": "Carpeta abierta"
+  },
+  {
+    "id": 2,
+    "comando": "Abre mi musica",
+    "accion": "C:\\Users\\Victor\\Music",
+    "respuesta": "Abriendo, desea algo en especial?"
+  }
+]

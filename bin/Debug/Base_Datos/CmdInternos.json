@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "comando": "Estado del sistema, por favor",
+    "accion": "",
+    "respuesta": "Analizando el sistema, un momento por favor"
+  },
+  {
+    "id": 2,
+    "comando": "Estado del nucleo",
+    "accion": "",
+    "respuesta": "Nucleo funcionano al 100% de energia, señor."
+  }
+]
